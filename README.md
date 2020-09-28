@@ -1,4 +1,4 @@
-# sigsu_estagio
+# sigpig - Estagio
 ### Sistema de Gerenciamento de Porcos
 
 # A disciplina e o sistema
