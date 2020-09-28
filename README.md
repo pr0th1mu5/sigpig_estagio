@@ -31,6 +31,7 @@ Proporcionar um problema local real aos estudantes da disciplina de estágio sup
 # REQUISITOS DO SOFTWARE
 
 1 - O sistema deverá permitir a autenticação de dois tipos de usuários que irão utilizá-lo: administrador e estagiário
+<br />
 2 - Para o administrador o sistema deverá permitir todas as funções, mas para o estagiário deverá permitir apenas:
     - O cadastro da matriz(fêmea);
     - O cadastro do varrão (macho reprodutor);
