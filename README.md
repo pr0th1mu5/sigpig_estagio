@@ -32,7 +32,7 @@ Proporcionar um problema local real aos estudantes da disciplina de estágio sup
 
 1 - O sistema deverá permitir a autenticação de dois tipos de usuários que irão utilizá-lo: administrador e estagiário
 <br />
-2 - Para o administrador o sistema deverá permitir todas as funções, mas para o estagiário deverá permitir apenas:
+2 - Para o administrador o sistema deverá permitir todas as funções, mas para o estagiário deverá permitir apenas:<br />
     - O cadastro da matriz(fêmea);<br />
     - O cadastro do varrão (macho reprodutor);<br />
     - Filhotes;<br />
